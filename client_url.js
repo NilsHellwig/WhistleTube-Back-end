@@ -1,1 +1,1 @@
-exports.client_url = "https://lucid-hamilton-8cf1a0.netlify.app/"
+exports.client_url = "localhost:3000/"
