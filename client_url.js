@@ -1,0 +1,1 @@
+exports.client_url = "https://lucid-hamilton-8cf1a0.netlify.app/"
