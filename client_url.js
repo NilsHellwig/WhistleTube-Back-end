@@ -1,1 +1,1 @@
-exports.client_url = "localhost:3000/"
+exports.client_url = "http://127.0.0.1:3000/"
