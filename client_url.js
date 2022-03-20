@@ -1,1 +1,1 @@
-exports.client_url = "http://54.164.51.13/"
+exports.client_url = "http://54.164.51.13:3000"
