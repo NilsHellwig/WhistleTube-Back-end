@@ -97,4 +97,9 @@ module.exports = function (app, User) {
   app.post("/check_auth", auth, (req, res) => {
     res.status(201).json(req.body);
   });
+
+  app.get("/test", (req,res)=> {
+    console.log("enter");
+    res.status(201).json({"hallo":"hi!"})
+  });
 };
